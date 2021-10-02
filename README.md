@@ -1,9 +1,14 @@
 # AdvancedSolidity
+Images up top 
+![FirstImage](Images/PupperCoinWorks&Deploys.png)
+![OtherImage](Images/PupperCoinList.png)
+![SecondImage](Images/PupperCoinMinter.png)
+![ThirdImage](Images/PupperCoinSupply.png)
+![FourthImage](Images/PupperCoinTransaction2.png)
 
 
 
 
-THE Copy/Pasted Stuff
 # Unit 21: You sure can attract a crowd!
 
 
